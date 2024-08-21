@@ -53,7 +53,7 @@
 
    + после проверяем командой  
 
-          git status
+          git log 
 
       ![Git](./assets/3.png)
 
