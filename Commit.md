@@ -14,7 +14,6 @@
 
 ![Git](./assets/15.png)
 
-
 Cоздаем новую ветку develop. Создаватся будет из ветки мастер master 
 
          git checkout -b develop master  
