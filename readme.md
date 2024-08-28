@@ -14,7 +14,7 @@ LICENSE:[MIT](License.md)
 4. [Работа с git](working_with_git.md)
 5. [Перемещение между коммитами](Commit.md)
 6. [Как создать новую ветку](new_branch.md) 
-7. Удаленные репозитории
+7. [Удаление репозитория](delet_repositorie.md)
 8. [Краткий справочник git](git_help.md)
 9. [Краткий справочник работы в терминале](help_terminal.md) 
 
